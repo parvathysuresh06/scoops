@@ -1,0 +1,123 @@
+body{
+    height: 5000px;
+}
+/* .navbar-brand{
+    display: block;
+    position: absolute;
+    z-index: 2;
+    background: #fff;
+    border-radius: 50%;
+    bottom: -11px;
+} */
+
+.container-fluid9{
+  background-image: url(https://i.pinimg.com/originals/8d/a6/4f/8da64fff89cce41b5f378a8e9d17e6dc.jpg);
+  background-size:100%;
+
+}
+.navbar{
+    background-color:#F48FB1;
+    color: aliceblue;
+}
+/* .col-6{
+    background-image: url(https://i.pinimg.com/474x/a2/c6/f1/a2c6f1b8b285484e34b5f4af8e8e1dac.jpg);
+    background-size: cover;
+} */
+
+.head{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+}
+
+h1{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: white;
+    text-align: center;
+   
+    
+}
+.head p{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 50px; 
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.container-fluid1 p{
+    font-family: 'Oswald', sans-serif;
+}
+.container-fluid1 h4{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: white;
+    text-align: center;
+}
+.card1{
+    background-color:#FF8F00;
+}
+.container-fluid1 img{
+    padding-top: 6px;
+    width: 287px;
+    height:300px
+    
+}
+.card2{
+    background-color: #00ACC1;
+    width: 100%;
+}
+.card3{
+    background-color: #1DE9B6;
+}
+.card4{
+    background-color: #6D4C41;
+}
+
+.containerP img {
+    padding-top: 6px;
+    width: 287px;
+    height:300px
+}
+.card5{
+    background-color: #D32F2F;
+}
+.card6{
+    background-color: #FFFF00;
+
+}
+.card7{
+    background-color: #4527A0;
+}
+.card8{
+    background-color: #1DE9B6;
+}
+
+#caro{
+    width:400px ;
+    height:300px ;
+}
+.carousel-inner img{
+    width: 500px;
+    height: 450px;
+}
+.accordion button {
+    font-family: 'Oswald', sans-serif;
+
+}
+footer{
+    background-color: #4FC3F7;
+    color: white;
+}
+
+.col-4 button{
+    margin-top: 50%;
+    margin-left: 25%;
+    color: aliceblue;
+}
+.col-4 modal-fade modal-title{
+    text-align: center;
+}
+.coontainerForm form{
+    margin-right: 2px;
+}
