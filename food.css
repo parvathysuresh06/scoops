@@ -121,3 +121,12 @@ footer{
 .coontainerForm form{
     margin-right: 2px;
 }
+
+.container-fluid7{
+    color:white;
+    text-align: center;
+   
+}
+.container-fluid7 h2 {
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
